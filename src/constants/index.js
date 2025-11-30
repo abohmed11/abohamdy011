@@ -117,15 +117,14 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
+    company_name: "Cybersecurity",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "With proficiency in penetration testing, network security, and ethical hacking, I utilize tools like Kali Linux",
+      "Wireshark, and Burp Suite to analyze and fortify systems. I stay updated with the latest cybersecurity trends.",
+      "to provide proactive protection.",
     ],
   },
   {
@@ -135,10 +134,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I believe that design is more than just visuals—it’s about solving problems and communicating ideas.",
+      "effectively. By understanding user needs and business goals, I create web experiences that leave a lasting.",
+      "impression and drive results..",
     ],
   },
   {
@@ -148,10 +146,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "With expertise in HTML, CSS, JavaScript, and modern frameworks like React, I craft responsive and interactive.",
+      "designs. I focus on clean layouts, intuitive navigation, and mobile-first strategies to make every website.",
+      "accessible and engaging across all devices.",
+      
     ],
   },
   {
@@ -181,7 +179,7 @@ const testimonials = [
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+    name: "Chris Bron",
     designation: "COO",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
